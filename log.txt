@@ -1,0 +1,6 @@
+[05/06/2026, 15:51:22 PM] [bot | INFO] - Thumbnail has been Saved!! [__init__.py:68]
+[05/06/2026, 15:51:22 PM] [bot | ERROR] - There is no current event loop in thread 'MainThread'. [__init__.py:81]
+[05/06/2026, 15:55:13 PM] [bot | ERROR] - There is no current event loop in thread 'MainThread'. [__init__.py:81]
+[05/06/2026, 15:56:18 PM] [bot | ERROR] - There is no current event loop in thread 'MainThread'. [__init__.py:81]
+[05/06/2026, 15:59:21 PM] [bot | ERROR] - There is no current event loop in thread 'MainThread'. [__init__.py:81]
+[05/07/2026, 13:28:58 PM] [bot | ERROR] - There is no current event loop in thread 'MainThread'. [__init__.py:81]
